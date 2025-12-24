@@ -3,6 +3,10 @@
 A data analysis and visualization project exploring the **New York City Airbnb marketplace** using the `AB_NYC_2019` dataset.  
 The project uncovers patterns in **pricing, demand, room types, seasonality, and host performance** across boroughs and neighborhoods.
 
+## 📊 Dashboard Overview
+
+![NYC Airbnb Dashboard](Dashboard%201.png)
+
 ---
 
 ## 📌 Project Overview
